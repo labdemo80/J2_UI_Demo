@@ -5,6 +5,13 @@ Demo for Register, Login and Dashboard!!
   <img src="images/banner.png" width="600">
 </p>
 
+## Roadmap
+
+- [x] User authentication
+- [x] Blog creation
+- [ ] Payment integration
+- [ ] Mobile app support
+
 <details>
 <summary>Click to view installation steps</summary>
 
