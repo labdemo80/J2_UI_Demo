@@ -5,7 +5,14 @@ Demo for Register, Login and Dashboard!!
   <img src="images/banner.png" width="600">
 </p>
 
+<details>
+<summary>Click to view installation steps</summary>
 
+```bash
+git clone https://github.com/user/project.git
+cd project
+npm install
+npm start
 
 <h1 align="center">Course Enrollment System</h1>
 
