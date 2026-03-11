@@ -5,6 +5,8 @@ Demo for Register, Login and Dashboard!!
   <img src="images/banner.png" width="600">
 </p>
 
+
+
 <h1 align="center">Course Enrollment System</h1>
 
 <p align="center">
@@ -24,6 +26,10 @@ A web application for managing course registrations.
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Course+Enrollment+System;Built+with+React+and+Node.js)
 
 📷 Screen Shot
+<p align="center">
+  <img src="register.png" width="45%">
+  <img src="login.png" width="45%">
+</p>
 # Register
 ![Register image](register.png)
 
