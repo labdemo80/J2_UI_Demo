@@ -21,6 +21,8 @@ A web application for managing course registrations.
 - CSS
 - Bootstrap (BS5)
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Course+Enrollment+System;Built+with+React+and+Node.js)
+
 📷 Screen Shot
 # Register
 ![Register image](register.png)
