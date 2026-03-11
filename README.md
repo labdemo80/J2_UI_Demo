@@ -13,6 +13,7 @@ git clone https://github.com/user/project.git
 cd project
 npm install
 npm start
+```
 
 <h1 align="center">Course Enrollment System</h1>
 
