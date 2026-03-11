@@ -5,6 +5,8 @@ Demo for Register, Login and Dashboard!!
   <img src="images/banner.png" width="600">
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=labdemo80&show_icons=true)
+
 ## Roadmap
 
 - [x] User authentication
