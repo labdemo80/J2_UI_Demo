@@ -14,6 +14,7 @@ cd project
 npm install
 npm start
 ```
+</details>
 
 <h1 align="center">Course Enrollment System</h1>
 
