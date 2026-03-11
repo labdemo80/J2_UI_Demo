@@ -27,6 +27,9 @@ A web application for managing course registrations.
   <img src="https://img.shields.io/badge/license-MIT-blue">
 </p>
 
+> ⚠️ Important  
+> Install Node.js before running this project.
+
 # Technology
 - HTML
 - CSS
